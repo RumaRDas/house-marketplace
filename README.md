@@ -20,7 +20,9 @@ House mrket place is aonline place where user can list their property for sellin
 ```
 ### For frontend 
 run cd house-marketplace >>
+
 // For creating REACT APP
+
 npx create-react-app house-marketplace
 
 npm  install react-router-dom
